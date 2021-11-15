@@ -40,6 +40,7 @@ const App = () => {
       <Button color="secondary" />
       <p>danger color</p>
       <Button color="danger" />
+      <p>submitted by ralph</p>
     </div>
   );
 };
